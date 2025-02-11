@@ -1,2 +1,2 @@
 # requirements.txt
-# No external dependencies required for this project.
+svg.path>=6.2.0
